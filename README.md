@@ -238,3 +238,29 @@ Crie uma aplicação em Java para manipular um funcionário com ID, nome e salá
 - Adicionar um funcionário
 - Visualizar um funcionário dado um ID
 - Alterar as informações de um funcionário pelo seu ID
+
+Menu:
+Escolha um dos itens:
+
+1 - Adicionar funcionário
+
+2 - Visualizar funcionário
+
+3 - Alterar funcionário
+
+4 - Sair
+
+- Se o usuário escolher 1, aparece no menu:
+    - ID:
+    - Nome:
+    - Salário:
+    - Depois de digitar o salário, o funcionário é adicionado e volta ao menu inicial
+- Se o usuário escolher 2, aparece o menu:
+    - ID:
+    - Depois de digitar o ID, os dados do funcionário são listados
+- Se o usuário escolher 3, aparece o menu:
+    - ID:
+    - Nome:
+    - Salário:
+    - Depois de digitar o salário, o funcionário é alterado e volta ao menu inicial
+- Se o usuário escolher 4, sai da aplicação
