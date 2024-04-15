@@ -230,3 +230,11 @@ arquivo.close();
 ```
 
 Você pode obter o tamanho dos tipos no link https://www.w3schools.com/java/java_data_types.asp
+
+# Exercício em Aula
+
+Crie uma aplicação em Java para manipular um funcionário com ID, nome e salário. Essa aplicação deve permitir:
+
+- Adicionar um funcionário
+- Visualizar um funcionário dado um ID
+- Alterar as informações de um funcionário pelo seu ID
